@@ -1,0 +1,16 @@
+E:\Учеба\4 курс\УП\Задание №4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\Учеба\4 курс\УП\Задание №4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба\4 курс\УП\Задание №4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\Учеба\4 курс\УП\Задание №4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\Учеба\4 курс\УП\Задание №4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\Учеба\4 курс\УП\Задание №4\WinFormsApp1\obj\Debug\net8.0-windows\LoginApp.LoginForm.resources
+E:\Учеба\4 курс\УП\Задание №4\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\Учеба\4 курс\УП\Задание №4\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\Учеба\4 курс\УП\Задание №4\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\Учеба\4 курс\УП\Задание №4\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Учеба\4 курс\УП\Задание №4\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Учеба\4 курс\УП\Задание №4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Учеба\4 курс\УП\Задание №4\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\Учеба\4 курс\УП\Задание №4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Учеба\4 курс\УП\Задание №4\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\Учеба\4 курс\УП\Задание №4\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
