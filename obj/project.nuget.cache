@@ -4,15 +4,5 @@
   "success": true,
   "projectFilePath": "E:\\Учеба\\4 курс\\УП\\Задание №4\\WinFormsApp1.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "message": "Ошибка чтения файла кэша E:\\Учеба\\4 курс\\УП\\Задание №4\\obj\\project.nuget.cache: '<' is an invalid start of a value. Path: $ | LineNumber: 0 | BytePositionInLine: 0.",
-      "projectPath": "E:\\Учеба\\4 курс\\УП\\Задание №4\\WinFormsApp1.csproj",
-      "warningLevel": 1,
-      "filePath": "E:\\Учеба\\4 курс\\УП\\Задание №4\\WinFormsApp1.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }
